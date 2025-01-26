@@ -38,11 +38,6 @@
 ![OOP](https://img.shields.io/badge/-OOP-3776AB?style=flat-square)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat-square)
 
-## 🎯 Future Goals
-
-- 🦀 Become proficient in Ruby on Rails
-- ⚡ Master Andriod Development
-
 ## 💼 Open for Opportunities
 
 I'm actively seeking internship opportunities! Let's connect and create something amazing together.
