@@ -1,7 +1,7 @@
-# 👋 Hello there, I am Francis.
-## 🚀 Aspiring Software Engineer | 💡 Tech Enthusiast | 🌱 Lifelong Learner
+# 👋 Hello there, My name is Francis.
+I am a passionate software developer focused on building innovative solutions. I'm currently a student at Red River College, specializing in software development and IT.
 
-## 🛠 Tech Stack
+
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
