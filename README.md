@@ -33,6 +33,7 @@ I am a passionate software developer focused on building innovative solutions. I
 ### Development Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Other Skills
 ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square&logo=agile)
